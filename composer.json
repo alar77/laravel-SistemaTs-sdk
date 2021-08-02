@@ -1,0 +1,12 @@
+{
+	"name" : "laravel-sistemats-sdk/laravel-sistemats-sdk",
+	"authors" : [{
+			"name" : "Giovanni Gargani",
+			"email" : "giovanni@gargani.it"
+		}
+	],
+	"require" : {
+		"guzzlehttp/guzzle" : "~7.3",
+		"ext-openssl" : "*"
+	}
+}
