@@ -1,6 +1,9 @@
 {
 	"name" : "alar77/laravel-sistema-ts-sdk",
-	"authors" : [{
+	"license": "MIT",
+	"keywords": ["laravel","sistemats"],
+	"authors" : [
+		{
 			"name" : "Giovanni Gargani",
 			"email" : "giovanni@gargani.it"
 		}
